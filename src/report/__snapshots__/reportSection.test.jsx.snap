@@ -42,14 +42,14 @@ exports[`ReportSection component correctly passes isFirstSection prop to collaps
   <div
     className="pgn-transition-replace-group position-relative"
     style={
-      Object {
+      {
         "height": null,
       }
     }
   >
     <div
       style={
-        Object {
+        {
           "padding": ".1px 0",
         }
       }
@@ -102,14 +102,14 @@ exports[`ReportSection component correctly passes isFirstSection prop to collaps
   <div
     className="pgn-transition-replace-group position-relative"
     style={
-      Object {
+      {
         "height": null,
       }
     }
   >
     <div
       style={
-        Object {
+        {
           "padding": ".1px 0",
         }
       }
@@ -196,14 +196,14 @@ exports[`ReportSection component renders contents when program data is passed in
   <div
     className="pgn-transition-replace-group position-relative"
     style={
-      Object {
+      {
         "height": null,
       }
     }
   >
     <div
       style={
-        Object {
+        {
           "padding": ".1px 0",
         }
       }

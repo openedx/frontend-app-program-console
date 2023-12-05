@@ -310,14 +310,14 @@ exports[`ConsolePage renders error when filter returns no programs 1`] = `
         <div
           className="pgn-transition-replace-group position-relative"
           style={
-            Object {
+            {
               "height": null,
             }
           }
         >
           <div
             style={
-              Object {
+              {
                 "padding": ".1px 0",
               }
             }
@@ -439,14 +439,14 @@ exports[`ConsolePage renders error when filter returns no programs 1`] = `
         <div
           className="pgn-transition-replace-group position-relative"
           style={
-            Object {
+            {
               "height": null,
             }
           }
         >
           <div
             style={
-              Object {
+              {
                 "padding": ".1px 0",
               }
             }
@@ -851,14 +851,14 @@ exports[`ConsolePage renders program banners when they are included 1`] = `
         <div
           className="pgn-transition-replace-group position-relative"
           style={
-            Object {
+            {
               "height": null,
             }
           }
         >
           <div
             style={
-              Object {
+              {
                 "padding": ".1px 0",
               }
             }
@@ -1013,14 +1013,14 @@ exports[`ConsolePage renders program banners when they are included 1`] = `
         <div
           className="pgn-transition-replace-group position-relative"
           style={
-            Object {
+            {
               "height": null,
             }
           }
         >
           <div
             style={
-              Object {
+              {
                 "padding": ".1px 0",
               }
             }
@@ -1392,14 +1392,14 @@ exports[`ConsolePage renders programs when there is data passed in 1`] = `
         <div
           className="pgn-transition-replace-group position-relative"
           style={
-            Object {
+            {
               "height": null,
             }
           }
         >
           <div
             style={
-              Object {
+              {
                 "padding": ".1px 0",
               }
             }
@@ -1521,14 +1521,14 @@ exports[`ConsolePage renders programs when there is data passed in 1`] = `
         <div
           className="pgn-transition-replace-group position-relative"
           style={
-            Object {
+            {
               "height": null,
             }
           }
         >
           <div
             style={
-              Object {
+              {
                 "padding": ".1px 0",
               }
             }
